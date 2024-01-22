@@ -22,7 +22,7 @@
 
 **Objectif:** Travailler avec le système de fichiers en Node.js.
 
-- **Fichier:** `file-manipulation.js`
+- **Fichier:** `readFile.js`
 - **Écriture de Fichier:** Crée un fichier "welcome.txt" contenant la ligne "Hello Node".
 - **Lecture de Fichier:** Lit et affiche les données depuis "welcome.txt".
 
